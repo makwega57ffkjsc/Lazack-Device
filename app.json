@@ -1,5 +1,5 @@
 {
-  "name": "Lazack Device",
+  "name": "NASRI'S Device",
   "description": " Whatsapp botz made by team lazack.",
   "keywords": [
     "whatsapp bot"
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255734980103"
+      "value": "255615164157"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "𝐋𝐀𝐙𝐀𝐂𝐊-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "NASRI'S BOT BUG🤬"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
